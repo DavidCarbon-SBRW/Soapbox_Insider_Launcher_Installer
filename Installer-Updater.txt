@@ -1,0 +1,22 @@
+;aiu;
+[General]
+UpdatesDisabled = No New Updates. Yet..
+
+[0.0.0]
+Name = SBRW Launcher Update
+ProductVersion = 0.0.0.0
+URL = https://github.com/DavidCarbon-SBRW/Soapbox_Insider_Launcher_Installer/raw/master/Installer/SBRW.Insider.Installer.exe
+Size = 12176080
+ReleaseDate = 05/01/2020
+SHA256 = 2D62F9A90FE24D13E53E1051F3B2C078E13DC4C459F264C273014F9580B17A42
+MD5 = 01158f427e8086c9d804a6affe311255
+ServerFileName = SBRW.Insider.Installer.exe
+Flags = NoCache
+RegistryKey = HKUD\Software\Soapbox Race World\Soapbox Race World Launcher\Version
+Version = 0.0.0.0
+UpdatedApplications = Soapbox Race World Launcher[0.0.0]
+DescriptionHtml = <i>This update affects the Game Launcher and Launcher Installer.</i>
+DescriptionHtml1 = <i>You can ingnore this update if you have already successfully updated your Game Launcher.</i>
+FeatureHtml = <b>Game Launcher Updates</b>
+FeatureHtml1 = <b>Disable Word Filter</b> setting is now available in launcher settings.
+Replaces = All
